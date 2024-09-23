@@ -66,6 +66,9 @@ TagManager:
   - name: Proyectil
     uniqueID: 1124326173
     locked: 0
+  - name: Tilemap_Casa_Atras
+    uniqueID: 2053129999
+    locked: 0
   - name: UI
     uniqueID: 2706843665
     locked: 0
