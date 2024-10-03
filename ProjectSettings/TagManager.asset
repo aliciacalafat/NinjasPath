@@ -48,7 +48,7 @@ TagManager:
   - name: Tilemap_Limite
     uniqueID: 2637653317
     locked: 0
-  - name: Tilemap_Arboles
+  - name: Tilemap_Arboles-Rocas
     uniqueID: 2691828187
     locked: 0
   - name: Tilemap_Casa
@@ -66,7 +66,7 @@ TagManager:
   - name: Proyectil
     uniqueID: 1124326173
     locked: 0
-  - name: Tilemap_Casa_Atras
+  - name: Tilemap_Parte_Atras
     uniqueID: 2053129999
     locked: 0
   - name: UI
