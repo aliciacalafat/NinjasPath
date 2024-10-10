@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5223296888520370789}
   - component: {fileID: 1001478997900889151}
-  - component: {fileID: 8418140226988610435}
+  - component: {fileID: -4199355670227165410}
   m_Layer: 0
   m_Name: Espantapajaros
   m_TagString: Untagged
@@ -84,8 +84,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &8418140226988610435
-BoxCollider2D:
+--- !u!60 &-4199355670227165410
+PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -107,6 +107,9 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.875, y: 1}
-  m_EdgeRadius: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.03, y: 0.46875}
+      - {x: 0, y: 0.40625}
+      - {x: 0, y: -0.40625}
+      - {x: 0, y: -0.46875}
