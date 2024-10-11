@@ -1153,10 +1153,10 @@ TextureImporter:
     second: TilesetHouse_382
   - first:
       213: 2553279189318452807
-    second: TilesetHouse_383
+    second: estatuaBuda1
   - first:
       213: 6871732356629824281
-    second: TilesetHouse_384
+    second: estatuaBuda2
   - first:
       213: 8224441798596010958
     second: TilesetHouse_385
@@ -1327,7 +1327,7 @@ TextureImporter:
     second: TilesetHouse_440
   - first:
       213: 6113872914990850037
-    second: columna_1
+    second: columna1
   - first:
       213: -749321833761245548
     second: TilesetHouse_442
@@ -9829,13 +9829,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TilesetHouse_383
+      name: estatuaBuda1
       rect:
         serializedVersion: 2
         x: 80
-        y: 112
+        y: 109
         width: 16
-        height: 16
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9850,13 +9850,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TilesetHouse_384
+      name: estatuaBuda2
       rect:
         serializedVersion: 2
         x: 96
-        y: 112
+        y: 109
         width: 16
-        height: 16
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -10423,7 +10423,7 @@ TextureImporter:
         x: 80
         y: 96
         width: 16
-        height: 16
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -10444,7 +10444,7 @@ TextureImporter:
         x: 96
         y: 96
         width: 16
-        height: 16
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -11047,13 +11047,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: columna_1
+      name: columna1
       rect:
         serializedVersion: 2
         x: 112
-        y: 80
+        y: 71
         width: 16
-        height: 16
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -11599,7 +11599,7 @@ TextureImporter:
         x: 112
         y: 64
         width: 16
-        height: 16
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
